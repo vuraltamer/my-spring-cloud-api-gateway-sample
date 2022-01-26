@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: second-api
+server:
+  port: 8083
